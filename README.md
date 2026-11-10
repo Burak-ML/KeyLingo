@@ -1,8 +1,10 @@
 # KeyLingo
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/platform-macOS-lightgrey?logo=apple)
+**Translate text directly in your active macOS app with a keyboard shortcut.**
+
+KeyLingo is a lightweight Python utility built around the macOS Quartz event system and DeepL API. It replaces selected field text with a Turkish–English translation, restores clipboard contents and preserves the original input when a request fails.
+
+**Explore:** [Shortcuts](#shortcuts) · [Features](#features) · [Installation](#installation) · [Tests](#tests)
 
 **Translate the text you are typing between Turkish and English in any macOS app, with one keyboard shortcut.**
 
