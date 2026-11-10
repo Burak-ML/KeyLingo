@@ -6,8 +6,6 @@ KeyLingo is a lightweight Python utility built around the macOS Quartz event sys
 
 **Explore:** [Shortcuts](#shortcuts) · [Features](#features) · [Installation](#installation) · [Tests](#tests)
 
-**Translate the text you are typing between Turkish and English in any macOS app, with one keyboard shortcut.**
-
 KeyLingo runs in the background and listens for global shortcuts. Press a shortcut in Discord, Safari, Slack, VS Code, Notes or any other text field, and the text in that field is replaced by its [DeepL](https://www.deepl.com/pro-api) translation. There is no switching between apps and no copy and paste.
 
 ## Shortcuts
